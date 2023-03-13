@@ -114,7 +114,4 @@
     justify-content: space-around;
     max-width: 800px;
    }
-   .addTodoss {
-    margin-top: 3%;
-   }
   </style>

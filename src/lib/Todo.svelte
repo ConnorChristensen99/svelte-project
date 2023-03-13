@@ -80,9 +80,6 @@
         margin-left: 25px;
         padding: 3%;
     }
-    .todoNumber {
-        font-size: x-large;
-    }
     #todos {
         column-count: 2;
     }
